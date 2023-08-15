@@ -2,7 +2,7 @@
 layout: blog
 title: Prueba estatica
 date: '2023-08-13T15:07:02-05:00'
-thumbnail: /images/uploads/social_img.png
+thumbnail: /images/uploads/descarga.png
 ---
 Esta prueba es estática y temporal, en unos momentos se autodestruirá y todos nos iremos a la chingada
 
