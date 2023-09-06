@@ -7,3 +7,4 @@
   Tips & Trucos - Code
 </h1>
 
+**Authors:** @CarlDesigner & @Gregorovich
